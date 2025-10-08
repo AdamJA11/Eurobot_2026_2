@@ -45,7 +45,7 @@ void loop()
   Serial.println(pulseCount);
   delay(3000);
  
-//   comms
+//   commssss
   motor1->run(RELEASE);
   Serial.println("Moteur 1 arrete");
   Serial.println(pulseCount);
